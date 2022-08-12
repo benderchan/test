@@ -11,7 +11,7 @@ About the Project: 📚
 Created a test project for profiling random users
 
 
-Technologies Used: ☕️ 🐍 ⚛️
+Technologies Used:  ⚛️
 
 SPA based on ReactJS
 
@@ -27,5 +27,3 @@ Enjoy :)
 Status: 📶
 
 Project is completed
-
-Credits: 📝
